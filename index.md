@@ -2,95 +2,79 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+# Gowrisubha
 
-There should be whitespace between paragraphs.
+I am currently a graduate intern at **Zeta**. I'm an **Electronics and Communication Engineering (ECE)** student with a strong interest in software and hardware integration. I have worked on various technical projects that span across embedded systems, web development, and AI-based applications.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## About Me
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
+> Passionate about building impactful solutions through technology.
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> "When something is important enough, you do it even if the odds are not in your favor."
 
-### Header 3
+### Technical Snapshot
 
 ```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+// Sample JavaScript project snippet
+const greet = (name) => {
+  return `Hello, ${name}!`;
+};
 ```
 
 ```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
+# Sample Ruby logic (not used by me, just syntax demo)
+skills.each do |tech, level|
+  puts "#{tech} - Proficiency: #{level}"
 end
 ```
 
-#### Header 4
+#### Projects
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   Smart Alert System using Embedded C
+*   Skin & Hair Color Detection Web App (Flask + OpenCV)
+*   E-Commerce Website using Node.js & MongoDB
 
-##### Header 5
+##### Skills
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  Python, C/C++
+2.  Web Development (HTML, CSS, JS, Flask, Node.js)
+3.  Git, GitHub, VS Code
 
-###### Header 6
+###### Tech Stack
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Technology   | Level           | Used In                         |
+|:-------------|:----------------|:--------------------------------|
+| Python       | Advanced        | AI Projects, Backend Logic      |
+| Flask        | Intermediate    | Web App (Color Detection)       |
+| C/C++        | Intermediate    | Embedded Projects               |
+| JavaScript   | Intermediate    | Frontend, Web App Integration   |
 
-### There's a horizontal rule below this.
+### Divider
 
 * * *
 
-### Here is an unordered list:
+### Tools I Use:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+*   Visual Studio Code
+*   GitHub
+*   Figma
+*   Arduino IDE
 
-### And an ordered list:
+### My Learning Path:
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+1.  Embedded Systems Basics
+2.  Web Development
+3.  Computer Vision & AI
+4.  Full Stack Project Integration
 
-### And a nested list:
+### Future Goals:
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+- Dive deeper into AI/ML
+  - Computer vision applications
+  - Real-time data analysis
+- Build scalable products
+- Learn cloud deployment and DevOps practices
 
 ### Small image
 
@@ -100,24 +84,23 @@ end
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
-
-### Definition lists can be used with HTML syntax.
+### Profile Summary
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dd>Gowrisubha</dd>
+<dt>Status</dt>
+<dd>Graduate Intern at Zeta</dd>
+<dt>Branch</dt>
+<dd>ECE</dd>
+<dt>Passion</dt>
+<dd>Tech, Innovation, Real-world Projects</dd>
 </dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+console.log("This is a long console log for debugging or tracking project flow. It should not wrap and scroll horizontally if needed.");
 ```
 
 ```
-The final element.
+Thank you for visiting my page!
 ```
